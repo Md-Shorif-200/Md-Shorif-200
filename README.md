@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharif Uddin Rifat</h1>
+<h1 align="center">Hi,I'm Sharif Uddin Rifat</h1>
 <h3 align="center">Junior Web Developer | Frontend Focused | MERN Stack Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shorif-200&label=Profile%20views&color=0e75b6&style=flat" alt="md-shorif-200" /> </p>
