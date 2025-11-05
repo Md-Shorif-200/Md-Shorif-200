@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shorif-200&label=Profile%20views&color=0e75b6&style=flat" alt="md-shorif-200" /> </p>
 
-- 🔭 I’m currently working on [Aiyra B2B Product Inquiry and showcase Website](https://ayira-ecommerce-1.vercel.app/)
+- 🔭 I’m currently working on [Aiyra-B2B Product Inquiry and showcase Website](https://ayira-ecommerce-1.vercel.app/)
 
 - 🌱 I’m currently learning **TypeScipt,Mongoose**
 
