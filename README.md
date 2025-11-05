@@ -1,19 +1,19 @@
 <h1 align="center">Hi,I'm Sharif Uddin Rifat</h1>
-<h3 align="center">Junior Web Developer | Frontend Focused | MERN Stack Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Frontend Focused</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shorif-200&label=Profile%20views&color=0e75b6&style=flat" alt="md-shorif-200" /> </p>
 
-- 🔭 I’m currently working on [Academix-Online Course Management Website](https://academix-e460f.web.app/)
+- 🔭 I’m currently working on [Aiyra B2B Product Inquiry and showcase Website](https://ayira-ecommerce-1.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, Redux**
+- 🌱 I’m currently learning **TypeScipt,Mongoose**
 
-- 👯 I’m looking to collaborate on [Go Marathon-Marathon Management Website](https://go-marathon-21c56.web.app/)
+- 👯 I’m looking to collaborate on [EduSpark- Online Course Management Website](https://eduspark-3990d.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-790be.web.app/](https://my-portfolio-790be.web.app/)
+- 👨‍💻 All of my projects are available at [https://my-next-portfolio-mocha.vercel.app/](https://my-next-portfolio-mocha.vercel.app/)
 
 - 📫 How to reach me **mdshorifuddin463@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OCptb_gmtnC8wZAzvQv1llrlQEnBI5KO/view?usp=drive_link](https://drive.google.com/file/d/1OCptb_gmtnC8wZAzvQv1llrlQEnBI5KO/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sa3l2JMPrL1D2RXmr-njdMWB252Bd64p/view?usp=sharing](https://drive.google.com/file/d/1sa3l2JMPrL1D2RXmr-njdMWB252Bd64p/view?usp=sharing)
 
 - ⚡ Fun fact **- I love turning coffee into clean, responsive code ☕💻 - I debug better with music playing in the background 🎧 I believe documentation is just as important as coding 📚**
 
