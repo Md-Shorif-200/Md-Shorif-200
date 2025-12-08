@@ -82,8 +82,6 @@ Currently enhancing my skills in TypeScript and backend optimization.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
  <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
- <img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" width="40"/>
 </p>
 
 ---
