@@ -112,7 +112,7 @@ Currently enhancing my skills in TypeScript and backend optimization.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-shorif-200" height="150"/>
+ <img src="https://streak-stats.demolab.com?user=md-shorif-200" height="150"/>
 </p>
 
 ---
