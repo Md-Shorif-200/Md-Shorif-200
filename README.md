@@ -101,26 +101,26 @@ Currently enhancing my skills in TypeScript and backend optimization.
 
 ---
 
-#  GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shorif-200&show_icons=true&layout=compact" height="150"/>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shorif-200&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-shorif-200&show_icons=true" height="150"/>
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-shorif-200&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=md-shorif-200" />
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=md-shorif-200&theme=radical" />
 </p>
 
 ---
 
 ##  Fun Fact  
-- I love turning coffee into clean, responsive code ☕💻
+- I love turning coffee into clean, responsive code ☕💻  
 - I debug faster with music playing 🎧  
 - I believe **documentation is as important as writing code** 📚
-
----
-
