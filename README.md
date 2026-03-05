@@ -31,7 +31,7 @@ I am a passionate MERN Stack Developer focused on building modern, responsive, a
   <a href="https://shorif.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1sa3l2JMPrL1D2RXmr-njdMWB252Bd64p/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18AMVdyCwxUkdzvUnS8-iGFJaLOku2Fnj/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   <a href="mailto:mdshorifuddin463@gmail.com">
