@@ -23,7 +23,7 @@ I am a passionate MERN Stack Developer focused on building modern, responsive, a
 - Collaborating on **EduSpark** – Online Course Management Website  
   **Live:** https://eduspark-3990d.web.app/
 
-- Learning **TypeScript** and **Mongoose**
+- Learning **PostgreSQL** and **Mongoose**
 - Improving backend performance and code quality
 
 ## Portfolio & Resume
