@@ -16,30 +16,17 @@
 ## About Me
 I am a passionate MERN Stack Developer focused on building modern, responsive, and scalable web applications. I enjoy writing clean, maintainable code, learning new technologies, and solving real-world problems through thoughtful design and development.
 
-## Current Focus
-- Building **Aiyra** – B2B Product Inquiry & Showcase Website  
-  **Live:** https://ayira-ecommerce-1.vercel.app/
 
-- Collaborating on **EduSpark** – Online Course Management Website  
-  **Live:** https://eduspark-3990d.web.app/
+- 🖥️ I'm currently working on **TypeScript React.js, Next.js and Zustand** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose and JWT** for the backend.
+- 🧪 I'm currently learning **SQL, Docker, Redis and AWS.**
+- 💬 Ask me about **Full-Stack (TypeScript, React, Next, Node, Express, MongoDB).**
+- 🌐 Explore My Portfolio [shorif-portfolio](https://shorif.vercel.app/) and My [Resume](https://drive.google.com/file/d/1h3hwgNjZNojBBgB7m_7ccZJdgtTzyjv9/view?usp=sharing)
+- ✍️ I regularly write articles on [LinkedIn](https://www.linkedin.com/in/md-shorif-375533275/)
+- 📩 Feel free to reach me out [Email](mdshorifuddin463@gmail.com)
 
-- Learning **PostgreSQL** and **Mongoose**
-- Improving backend performance and code quality
 
-## Portfolio & Resume
-<p>
-  <a href="https://shorif.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/18AMVdyCwxUkdzvUnS8-iGFJaLOku2Fnj/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="mailto:mdshorifuddin463@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-## Connect with Me
+## Let's Connect : 
 <p>
   <a href="https://www.linkedin.com/in/md-shorif-375533275/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
@@ -52,34 +39,115 @@ I am a passionate MERN Stack Developer focused on building modern, responsive, a
   </a>
 </p>
 
-## Tech Stack
+## TECHNOLOGY STACK:
 
-### Frontend
+### Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,jquery" />
+HTML5 • CSS3 • JavaScript • TypeScript
+</p>
+
+---
+
+### CSS Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="Material UI"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
 </p>
 
 <p>
-React • Next.js • TypeScript • Redux • Zustand • Tailwind CSS • Bootstrap • Sass • jQuery • shadcn/ui
+Tailwind CSS • Material UI • Bootstrap
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <img src="https://jwt.io/img/pic_logo.svg" width="48" alt="JWT" />
+---
+
+### JavaScript Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
+
+  <!-- Zustand -->
+  <img src="https://cdn.simpleicons.org/zustand" height="45" alt="Zustand"/>
+
+  <!-- TanStack Query -->
+  <img src="https://cdn.simpleicons.org/reactquery" height="45" alt="TanStack Query"/>
+
+  <!-- shadcn/ui -->
+  <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" height="45" alt="shadcn/ui"/>
 </p>
 
 <p>
-Node.js • Express.js • MongoDB • Mongoose • Firebase • JWT
+React • Next.js • Redux • Zustand • Node.js • Express.js • TanStack Query • shadcn/ui
 </p>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,postman,vercel,netlify,npm" />
+---
+
+### Database & Model:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+
+  <!-- Mongoose -->
+  <img src="https://cdn.simpleicons.org/mongoose" height="45" alt="Mongoose"/>
+
+
 </p>
 
 <p>
-React Hook Form • Formik • TanStack Query • Swagger • Git • GitHub • VS Code • Postman • Figma
+MongoDB • Mongoose  • Firebase 
+</p>
+
+---
+
+### Deployment Platform:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase Hosting"/>
+</p>
+
+<p>
+Vercel • Netlify • Firebase Hosting
+</p>
+
+---
+
+### Design & Graphics:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" height="45" alt="Adobe Photoshop"/>
+</p>
+
+<p>
+Figma • Adobe Photoshop
+</p>
+
+---
+
+### Tools & Technologies:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
+
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman"/>
+
+  <!-- Swagger -->
+  <img src="https://cdn.simpleicons.org/swagger" height="45" alt="Swagger"/>
+</p>
+
+<p>
+React Hook Form • Formik • TanStack Query • Swagger • Git • GitHub • VS Code • Postman  • npm
 </p>
 
 ## GitHub Stats
