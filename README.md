@@ -34,7 +34,7 @@ I am a passionate MERN Stack Developer focused on building modern, responsive, a
   <a href="https://stackoverflow.com/users/28525900" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" height="45" alt="Stack Overflow" />
   </a>
-  <a href="https://fb.com/md.shorif.605916" target="_blank">
+  <a href="https://web.facebook.com/shorif.web.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="45" alt="Facebook" />
   </a>
 </p>
