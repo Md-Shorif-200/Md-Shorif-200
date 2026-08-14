@@ -21,7 +21,7 @@ I am a passionate MERN Stack Developer focused on building modern, responsive, a
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose and JWT** for the backend.
 - 🧪 I'm currently learning **SQL, Docker, Redis and AWS.**
 - 💬 Ask me about **Full-Stack (TypeScript, React, Next, Node, Express, MongoDB).**
-- 🌐 Explore My Portfolio [shorif-portfolio](https://shorif.vercel.app/) and My [Resume](https://drive.google.com/file/d/1h3hwgNjZNojBBgB7m_7ccZJdgtTzyjv9/view?usp=sharing)
+- 🌐 Explore My Portfolio [shorif-portfolio](https://shorif.vercel.app/) and My [Resume](https://drive.google.com/file/d/1bc0k3zCXo1sGXw21vB5oQVOXhytbNcwm/view?usp=sharing)
 - ✍️ I regularly write articles on [LinkedIn](https://www.linkedin.com/in/md-shorif-375533275/)
 - 📩 Feel free to reach me out [Email](mdshorifuddin463@gmail.com)
 
